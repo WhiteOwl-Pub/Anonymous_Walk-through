@@ -1,4 +1,9 @@
+![](images/THMlogo.png)
+
+[TryHackMe](https://tryhackme.com)
+
 ## Anonymous - Walk-through
+
 
 ### Welcome to the walk-through of the Anonymous room:
 
